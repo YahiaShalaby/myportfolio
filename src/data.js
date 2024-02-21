@@ -18,7 +18,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "YahiaShalaby";
 
 // Navbar Logo image
 export const navLogo = undefined;
@@ -31,7 +31,7 @@ export const Blog = <Icon icon="ph:link-bold" />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I am a Business Informatics senior at the GUC who is passionate about data analytics";
 
 /* Skills
  ************************************************************** 
@@ -45,17 +45,17 @@ export const skillData = [
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
+    skill: <Icon icon="ion:logo-css3" />,
     name: "CSS3",
   },
   {
     id: 3,
-    skill: <Icon icon="fa6-brands:js" className="display-4" />,
+    skill: <Icon icon="fa6-brands:js"  />,
     name: "JavaScript",
   },
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
+    skill: <Icon icon="ri:bootstrap-fill" />,
     name: "BootStrap",
   },
   {
@@ -92,7 +92,8 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["example-1", "example-2", "example-3"];
+// export const filteredProjects = ["example-1", "example-2", "example-3"];
+export const filteredProjects = ["AI-LSTM-Project"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
