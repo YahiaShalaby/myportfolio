@@ -12,19 +12,19 @@ const StyledSection = styled.section`
 `;
 
 export default function Contact() {
-  return (
-    <Element name={"Contact"} id="contact">
-      <StyledSection className="d-flex flex-column justify-content-center">
-        <Container className="d-flex">
-          <Title>
-            <h2>Contact Me</h2>
-            <div className="underline"></div>
-          </Title>
-        </Container>
-        <Container>
-          <ContactForm />
-        </Container>
-      </StyledSection>
-    </Element>
-  );
+  // return (
+  //   <Element name={"Contact"} id="contact">
+  //     <StyledSection className="d-flex flex-column justify-content-center">
+  //       <Container className="d-flex">
+  //         <Title>
+  //           <h2>Contact Me</h2>
+  //           <div className="underline"></div>
+  //         </Title>
+  //       </Container>
+  //       <Container>
+  //         <ContactForm />
+  //       </Container>
+  //     </StyledSection>
+  //   </Element>
+  // );
 }
