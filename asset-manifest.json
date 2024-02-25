@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63ffa884.css",
+    "main.js": "/static/js/main.33885d8c.js",
+    "static/media/dark-blue-paint-with-shade.jpg": "/static/media/dark-blue-paint-with-shade.6cf3fad524ab3321e5e4.jpg",
+    "static/media/abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg": "/static/media/abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template-backdrop.c60d84359e5bcb060050.jpg",
+    "static/media/markov model.PNG": "/static/media/markov model.d4b01cab49ba8f0fb1f2.PNG",
+    "service-worker.js": "/service-worker.js",
+    "static/media/5.png": "/static/media/5.a97208422cedb9a1e494.png",
+    "static/media/shalabanky-low-resolution-logo-color-on-transparent-background.png": "/static/media/shalabanky-low-resolution-logo-color-on-transparent-background.df67b51368e34c146385.png",
+    "static/media/db.png": "/static/media/db.6cbb8ef22999b6e23c00.png",
+    "static/media/Most Popular Brands.png": "/static/media/Most Popular Brands.2ffb2c2f98d91b36a2bf.png",
+    "static/media/Confusion Matrix.png": "/static/media/Confusion Matrix.2707d99f195d163017d4.png",
+    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.63ffa884.css.map": "/static/css/main.63ffa884.css.map",
+    "main.33885d8c.js.map": "/static/js/main.33885d8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffa884.css",
+    "static/js/main.33885d8c.js"
+  ]
+}
